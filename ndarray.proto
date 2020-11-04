@@ -1,0 +1,7 @@
+
+syntax = "proto3";
+
+message ndarray
+{
+    bytes data = 16;
+}
