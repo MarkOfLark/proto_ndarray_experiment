@@ -1,3 +1,5 @@
 __pycache__/
 *_pb2.py
 *.debug
+*.pb.cc
+*.pb.h
